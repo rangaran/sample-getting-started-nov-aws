@@ -21,7 +21,7 @@ import java.io.FileWriter;
 import jakarta.json.JsonArray;
 import jakarta.json.JsonObject;
 import jakarta.ws.rs.client.Client;
-import jakarta.ws.rs.client.ClientBuilder;
+import jakarta.ws.rs.client.ClientBuilder; 
 import jakarta.ws.rs.core.Response;
 
 public class HealthUtilIT {
